@@ -1,7 +1,7 @@
 # BettingFun
 website cá cược bóng đá - an Altplus Internship Project
 
-Football Betting System			Rational rose																				
+Football Betting System																					
 																							
 ### I. Tổng quan																							
   - Là hệ thống cá cược dựa trên kết quả các trận đấu bóng đá.																							
