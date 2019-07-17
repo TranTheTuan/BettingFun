@@ -4,10 +4,9 @@ website cá cược bóng đá - an Altplus Internship Project
 Football Betting System																					
 																							
 ### I. Tổng quan																							
-  - Là hệ thống cá cược dựa trên kết quả các trận đấu bóng đá.																							
-  - Quản trị viên đăng kí các trận đấu cho người chơi tham gia (tên đội chủ nhà, tên đội khách, thời điểm bắt đầu trận đấu, thời điểm kết thúc trận đấu, thời điểm dừng nhận cược, tỉ lệ cho từng cửa (thắng/thua/hòa)).																							
-  - Người chơi dùng tiền ảo của mình đặt cược cho kết quả trận đấu (thắng/thua hoặc hòa).																							
-  - Sau khi quản trị viên cập nhật tỉ số trận đấu, nếu đặt cược đúng, người chơi nhận được số tiền bằng số tiền mình đã cược nhân với tỉ lệ cược. Trong trường hợp ngược lại, người chơi mất số tiền đã cược.																							
+   - Là hệ thống cá cược dựa trên kết quả các trận đấu bóng đá.			
+   - Quản trị viên đăng kí các trận đấu cho người chơi tham gia (tên đội chủ nhà, tên đội khách, thời điểm bắt đầu trận đấu, thời điểm kết thúc trận đấu, thời điểm dừng nhận cược, tỉ lệ cho từng cửa (thắng/thua/hòa)).
+   - Người chơi dùng tiền ảo của mình đặt cược cho kết quả trận đấu (thắng/thua hoặc hòa).												- Sau khi quản trị viên cập nhật tỉ số trận đấu, nếu đặt cược đúng, người chơi nhận được số tiền bằng số tiền mình đã cược nhân với tỉ lệ cược. Trong trường hợp ngược lại, người chơi mất số tiền đã cược.																							
 																							
 ### II. Chức năng																							
 1. Chức năng chung																						
